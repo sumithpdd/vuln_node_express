@@ -5,3 +5,4 @@ app:
   env: Pre-Production # (required)
   # The url of your application to scan
   host: http://localhost:3000 # (required)
+  
